@@ -14,7 +14,6 @@ export class AppComponent {
   constructor() {}
 
   onClick() {
-    console.log(1);
     console.log(PDFkit);
   }
 }
